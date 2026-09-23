@@ -343,7 +343,7 @@ h2 em {
 
 .hero-copy h1 {
   margin: 22px 0 24px;
-  font-size: clamp(3rem, 5.4vw, 5.4rem);
+  font-size: clamp(2.5rem, 4vw, 4rem);
   max-width: 720px;
 }
 
